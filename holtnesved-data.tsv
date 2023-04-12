@@ -1,3 +1,4 @@
+#DATA-PRISLISTE		
 Type	Vedstørrelse	Pris kr
 Bjørk	25 cm	2500,-
 Bjørk	30 cm	2500,-
@@ -5,11 +6,18 @@ Bjørk	50 cm	2500,- (pr fast kubikk, m3)
 Blanding	30 cm	2200,-
 Hardved	30 cm	2500,-
 		
+#DATA-FRAKT		
 Frakt		
 Hurum	200,- pr enhet (1600 liter)	
 Røyken	300,- pr enhet	
 Asker og Drammen	etter avtale	
 		
+#DATA-SEKKER		
 Ved kan også leveres i 40 og 60 liters sekker.		
 Bjørk, 40 liter	120,-	
 Bjørk, 60 liter	150,-	
+		
+#DATA-MELDINGER		
+Meldinger		
+AV	Midlertidig stans i mottak av nye bestillinger grunnet stor pågang	
+AV	Vi er tomme for ved i år - salget av tørrved starter høsten	
